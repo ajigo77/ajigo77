@@ -109,6 +109,6 @@
 
 ---
 
-Credit: [1010nishant](https://github.com/ajigo77)
+Credit: [ajigo77](https://github.com/ajigo77)
 
 Last Edited on: 25/11/2024
